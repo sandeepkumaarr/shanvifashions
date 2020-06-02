@@ -5,9 +5,6 @@ import './homepage.styles.scss'
 const HomePage = (props) => (
     <div className="homepage">
         <Directory />
-        {
-            console.log(props)
-        }
     </div>
 )
 
